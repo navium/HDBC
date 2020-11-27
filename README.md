@@ -1,2 +1,2 @@
-# hdbc
-HTTP interface to JDBC drivers
+# HDBC
+HDBC is JDBC over HTTP.
